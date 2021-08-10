@@ -5,6 +5,7 @@ title: Welcome to the devDukes-99's homepage!
 description: Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/devDukes-99/devDukes-99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+you can use this link to learn about [growth mindset](https://github.com/devDukes-99/devDukes-99.github.io/blob/80bf9fd7f42b94e9c85b7e386075bb18281742c6/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
