@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello and Welcome to my Page
 
 You can use the [editor on GitHub](https://github.com/devDukes-99/devDukes-99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
