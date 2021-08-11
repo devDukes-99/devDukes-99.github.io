@@ -13,9 +13,10 @@
 
 ## 3 ways i like to remind myself to keep a growth-mindset
 - Set reminders 📱:
--- A simple alarm clock/timer app on my phone is one way I like to remind myself to keep that growth-mindset, I set a note on my app to remind myself where I last checkpoint.
+-- A simple alarm clock/timer app on my phone is one way I like to remind myself to keep that growth-mindset, I set a note on my app to remind myself where I left off.
 
 - Take a short motivation-break 🔋:
 -- short breaks taking my mind off a difficult task or getting stuck on in high-level error(s) where nothing seems to be working is when I usually take a motivation-break that consists of maybe making a nice snack and watch sports momentarily. This is when I usually will solve a problem with a calmer mind and more patient and less susceptible to my flaws.  
 
-- Consistency 💹:
+- Consistency 💹: Staying true to my new habits and develope a more organized mindset	:lotus_position_man:.
+  > “Success is not to be pursued; it is attracted by the person you become.” 
