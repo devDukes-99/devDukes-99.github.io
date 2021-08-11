@@ -18,5 +18,5 @@
 - Take a short motivation-break 🔋:
 -- short breaks taking my mind off a difficult task or getting stuck on in high-level error(s) where nothing seems to be working is when I usually take a motivation-break that consists of maybe making a nice snack and watch sports momentarily. This is when I usually will solve a problem with a calmer mind and more patient and less susceptible to my flaws.  
 
-- Consistency 💹: Staying true to my new habits and develope a more organized mindset	:lotus_position_man:.
+- Consistency 💹: They say it 21 days to form a habit and to me that can mean mentally as well, but staying true to my new daily habits/ critical thinking habbits I can develope a more organized and complete mindset	:lotus_position_man:.[the quote below](https://www.lifehack.org/889488/habits-quotes):v:
   > “Success is not to be pursued; it is attracted by the person you become.” 
