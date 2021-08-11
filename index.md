@@ -19,5 +19,5 @@
 |...    | ...  |
 |[twitter](https://twitter.com/dev_dukes)| [github](https://github.com/devDukes-99)|
 
-while you wait for more content you can use this link to learn about [growth mindset](https://github.com/devDukes-99/devDukes-99.github.io/blob/80bf9fd7f42b94e9c85b7e386075bb18281742c6/README.md)in my own words!
+while you wait for more content you can use this link to learn about [growth mindset](https://github.com/devDukes-99/devDukes-99.github.io/blob/80bf9fd7f42b94e9c85b7e386075bb18281742c6/README.md) in my own words!
 
