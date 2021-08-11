@@ -1,15 +1,28 @@
-## Hello and Welcome to my Page!
+## Welcome to the party!!:cake::balloon:
 
-theme: jekyll-theme-cayman
-title: Welcome to the devDukes-99's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
+![](![NFTeth](https://user-images.githubusercontent.com/87037324/129043813-870e33c3-64ee-4f0f-a56d-fe08b84de0c1.jpg)
 
-You can use the [editor on GitHub](https://github.com/devDukes-99/devDukes-99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+>  # Thanks for visiting my page, a little about myself - I am a U.S. Navy veteran, started as a engineer
+>  # working on small boats. I have been coding since 2017 after My time in the military and on this
+>  # Page I will post my future projects.
+
+
+
+1. Follow me if your interested in:
+- programming
+- tech
+- blockchain
+2.
+|twitter|github|
+|...    | ...  |
+|https://twitter.com/dev_dukes| https://github.com/devDukes-99|
+
 you can use this link to learn about [growth mindset](https://github.com/devDukes-99/devDukes-99.github.io/blob/80bf9fd7f42b94e9c85b7e386075bb18281742c6/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
