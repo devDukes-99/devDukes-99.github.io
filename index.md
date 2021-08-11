@@ -1,12 +1,12 @@
 ## Welcome to the party!! 
 
-![](![NFTeth](https://user-images.githubusercontent.com/87037324/129043813-870e33c3-64ee-4f0f-a56d-fe08b84de0c1.jpg)
+(![NFTeth](https://user-images.githubusercontent.com/87037324/129043813-870e33c3-64ee-4f0f-a56d-fe08b84de0c1.jpg)
 
 
 
->  # Thanks for visiting my page, a little about myself - I am a U.S. Navy veteran, started as a engineer
->  # working on small boats. I have been coding since 2017 after My time in the military and on this
->  # Page I will post my future projects.
+>  Thanks for visiting my page, a little about myself... I am a U.S. Navy veteran, started as a engineer
+>  working on small boats. I have been coding since 2017 after My time in the military and on this
+>  Page I will post my future projects.
 
 
 
