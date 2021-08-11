@@ -1,4 +1,4 @@
-## Welcome to the party!! :cake: :balloon:
+## Welcome to the party!! 
 
 ![](![NFTeth](https://user-images.githubusercontent.com/87037324/129043813-870e33c3-64ee-4f0f-a56d-fe08b84de0c1.jpg)
 
