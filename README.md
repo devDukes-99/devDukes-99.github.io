@@ -12,10 +12,10 @@
 > This is the way to succeed.” – LeBron James
 
 ## 3 ways i like to remind myself to keep a growth-mindset
-- Set reminders:
+- Set reminders 📱:
 -- A simple alarm clock/timer app on my phone is one way I like to remind myself to keep that growth-mindset, I set a note on my app to remind myself where I last checkpoint.
 
-- Take a short motivation-break:
+- Take a short motivation-break 🔋:
 -- short breaks taking my mind off a difficult task or getting stuck on in high-level error(s) where nothing seems to be working is when I usually take a motivation-break that consists of maybe making a nice snack and watch sports momentarily. This is when I usually will solve a problem with a calmer mind and more patient and less susceptible to my flaws.  
 
-- Consistency:
+- Consistency 💹:
