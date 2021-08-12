@@ -18,7 +18,7 @@
 
 |[twitter](https://twitter.com/dev_dukes)| [github](https://github.com/devDukes-99)|
 
-
+|[Code-Fellows-grwoth-mindset](https://github.com/devDukes-99/devDukes-99.github.io/blob/main/README.md)|
 # Growth-Mindset
 
 Growth-Mindset in my own words:
