@@ -34,7 +34,7 @@ Growth-Mindset in my own words:
 > “Don’t be afraid of failure. 
 > This is the way to succeed.” – LeBron James
 
-## 3 ways i like to remind myself to keep a growth-mindset
+## 3 ways I like to remind myself to keep a growth-mindset
 - Set reminders 📱:
 -- A simple alarm clock/timer app on my phone is one way I like to remind myself to keep that growth-mindset, I set a note on my app to remind myself where I left off.
 
