@@ -44,6 +44,6 @@ Growth-Mindset in my own words:
 - Consistency 💹: They say it 21 days to form a habit and to me that can mean mentally as well, but staying true to my new daily habits/ critical thinking habbits I can develope a more organized and complete mindset	:lotus_position_man:.[The Quote Below](https://www.lifehack.org/889488/habits-quotes):v:
   > “Success is not to be pursued; it is attracted by the person you become.” 
 
-| *if you would like to learn about creating simple webpage visit my [Blog-article](index.md)
+| *if you would like to learn about creating simple webpage visit my [Blog-article](https://github.com/devDukes-99/devDukes-99.github.io-reading-notes/blob/d8030b150342c5abef1300f2090797c57878e610/index.md)*
 
 
